@@ -1,19 +1,19 @@
 @font-face {
   font-family: "AthleticsLight";
-  src: url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Light.eot?v=1629224898904");
+  src: url("/fonts/Athletics-Light.eot");
   src: local(
-      "https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Light.eot?v=1629224898904"
+      "/fonts/Athletics-Light.eot"
     ),
     local(
-      "https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Light.eot?v=1629224898904"
+      "/fonts/Athletics-Light.eot"
     ),
-    url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Light.eot?v=1629224898904")
+    url("/fonts/Athletics-Light.eot")
       format("embedded-opentype"),
-    url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Light.woff2?v=1629224930092")
+    url("/fonts/Athletics-Light.woff2")
       format("woff2"),
-    url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Light.woff?v=1629224922209")
+    url("/fonts/Athetics-Light.woff")
       format("woff"),
-    url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Light.ttf?v=1629224912866")
+    url("/fonts/Athletics-Light.ttf")
       format("truetype");
   font-weight: 300;
   font-style: normal;
@@ -21,20 +21,20 @@
 
 @font-face {
   font-family: "Athletics";
-  src: url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Regular.eot?v=1629224749019");
+  src: url("/fonts/Athletics-Regular.eot");
   src: local(
-      "https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Regular.eot?v=1629224749019"
+      "/fonts/Athletics-Regular.eot"
     ),
     local(
-      "https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Regular.eot?v=1629224749019"
+      "/fonts/Athletics-Regular.eot"
     ),
-    url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Regular.eot?v=1629224749019")
+    url("fonts/Athletics-Regular.eot")
       format("embedded-opentype"),
-    url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Regular.woff2?v=1629224765815")
+    url("/fonts/Athletics-Regular.woff2")
       format("woff2"),
-    url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Regular.woff?v=1629224757346")
+    url("/fonts/Athletics-Regular.woff")
       format("woff"),
-    url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FAthletics-Regular.ttf?v=1629224732837")
+    url("/fonts/Athletics-Regular.ttf")
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -43,7 +43,7 @@
 @font-face {
   font-family: "NeueMachina";
   font-weight: bold;
-  src: url("https://cdn.glitch.com/1c9729ee-21de-4527-afcf-aa2a475c3c0e%2FNeueMachina-Ultrabold.otf?v=1629119404249")
+  src: url("/fonts/NeueMachina-Ultrabold.otf")
     format("opentype");
 }
 
