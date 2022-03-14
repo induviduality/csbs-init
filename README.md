@@ -8,3 +8,5 @@ Just like how `git init` initializes Git, Team `csbs init` strives to pioneer in
 We believe we _initialize_ activity and inspire those around us to outshine themselves each day. :D
 
 Live link: [https://csbs-init.glitch.me/](https://csbs-init.glitch.me/)
+
+[WIP] Refinements in design
