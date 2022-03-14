@@ -1,11 +1,12 @@
-# Hi, hiii
+# CSBS Init
 
-Please feel free to open up a new html file and code your section out.
-Look for your section name in `index.html` and replace the dummy text with your code.
+Concept website for our college bootcamp's project contest.
 
-## To replace dummy text
-- Go to the section tags of the section you've chosen.
-- Find the `<p>...</p>` tags and delete them along with the dummy text in it.
-- Add your code in there!
+Problem Statement: Design a website to portray the strength and features of the major/stream that you belong to
 
-The scroll and the links are working great
+# Team name - csbs init
+
+Just like how `git init` initializes Git, Team `csbs init` strives to pioneer in technical affairs in our department and university.
+We believe we _initialize_ activity and inspire those around us to outshine themselves each day. :D
+
+Live link: [https://csbs-init.glitch.me/](https://csbs-init.glitch.me/)
