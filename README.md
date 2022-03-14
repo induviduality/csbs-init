@@ -1,6 +1,6 @@
 # CSBS Init
 
-Concept website for our college bootcamp's project contest.
+Concept website for our college bootcamp's project contest around Sep 2021.
 
 Problem Statement: Design a website using basic CSS and HTML to portray the strength and features of the major/stream that you belong to.
 
